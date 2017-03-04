@@ -1,0 +1,14 @@
+{
+    "name": "47784862/test",
+    "description": "composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "guo",
+            "email": "47784862@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
